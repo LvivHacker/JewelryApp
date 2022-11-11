@@ -23,10 +23,3 @@ public class Main {
         }
     }
 }
-
-/*try {
-       String doCon = "jdbc:sqlserver://localhost\\MSSQLSERVER:1433;databaseName=Necklace;encrypt=true;trustServerCertificate=true;";
-}catch(Exception e){
-     System.err.println("Error! Find exception!");
-     System.err.println(e.getMessage());
-}*/
